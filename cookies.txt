@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+doctery-demo.pbminfotech.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+doctery-demo.pbminfotech.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_6b8f5be56c7df2bac6d728ad5e2b1fae	t_4511d993b78b67da592a6456e2f87a%7C%7C1684591337%7C%7C1684587737%7C%7Cd96024506461768db40d19ca51c1ae0e
+doctery-demo.pbminfotech.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+doctery-demo.pbminfotech.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	fdb6dae4c81c87f39523c628705a8c21
+
